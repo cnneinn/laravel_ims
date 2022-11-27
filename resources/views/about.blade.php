@@ -8,7 +8,7 @@
 </head>
 <body>
     <h1>
-        This is About Us Page
+        This is About Us Page From Controller
     </h1>
 </body>
 </html>
