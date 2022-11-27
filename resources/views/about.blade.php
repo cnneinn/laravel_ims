@@ -10,5 +10,6 @@
     <h1>
         This is About Us Page From Controller
     </h1>
+    <a href="{{ route('contactus.page') }}"> Contact Us</a>
 </body>
 </html>
